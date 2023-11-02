@@ -1,0 +1,18 @@
+name: nlp1
+channels:
+  - defaults
+  - conda-forge
+  - pytorch-nightly
+dependencies:
+    - python
+    - jupyter
+    - matplotlib
+    - numpy
+    - pytorch
+    - scikit-learn
+    - scipy
+    - nb_conda
+    - pandas
+    - matplotlib 
+    - nltk
+    - requests
